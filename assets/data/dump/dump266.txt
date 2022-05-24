@@ -1,0 +1,34 @@
+***************************************************************
+Estado:Ciudad de México
+Estación:Valle de México
+Código de la estación:CMX
+ID de la estación:266
+Nombre de la estación:Tlalnepantla
+Latitud:19.529166666667
+Longitud:-99.204722222222
+Calidad del Aire:Mala
+---------------------------------------------------------------
+PM10  (promedio móvil 12h):87(ug/m3)
+PM10  (calidad del aire):Mala
+PM10  (nivel de riesgo asociado):Alto
+---------------------------------------------------------------
+PM2.5 (promedio móvil 12h):47(ug/m3)
+PM2.5 (calidad del aire):Mala
+PM2.5 (nivel de riesgo asociado):Alto
+---------------------------------------------------------------
+CO    (promedio móvil 8h):1.19(ppm)
+CO    (calidad del aire):Buena
+CO    (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+SO2   (promedio móvil 24h):0.017(ppm)
+SO2   (calidad del aire):Aceptable
+SO2   (nivel de riesgo asociado):Moderado
+---------------------------------------------------------------
+O3    (promedio horaria):0.033(ppm)
+O3    (promedio móvil 8h):0.03(ppm)
+O3    (calidad del aire):Buena
+O3    (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+NO2   (promedio horaria):0.074(ppm)
+NO2   (calidad del aire):Buena
+NO2   (nivel de riesgo asociado):Bajo

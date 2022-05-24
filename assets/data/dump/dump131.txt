@@ -1,0 +1,34 @@
+***************************************************************
+Estado:Michoacán
+Estación:Morelia
+Código de la estación:MRA
+ID de la estación:131
+Nombre de la estación:Laboratorio de Salud
+Latitud:19.691977777778
+Longitud:-101.15547222222
+Calidad del Aire:No disponible
+---------------------------------------------------------------
+PM10  (promedio móvil 12h):No disponible
+PM10  (calidad del aire):No disponible
+PM10  (nivel de riesgo asociado):No disponible
+---------------------------------------------------------------
+PM2.5  (promedio móvil 12h):No disponible
+PM2.5 (calidad del aire):No disponible
+PM2.5 (nivel de riesgo asociado):No disponible
+---------------------------------------------------------------
+CO  (promedio móvil 8h):No disponible
+CO    (calidad del aire):No disponible
+CO    (nivel de riesgo asociado):No disponible
+---------------------------------------------------------------
+SO  (promedio móvil 24h):No disponible
+SO2   (calidad del aire):No dsiponible
+SO2   (nivel de riesgo asociado):No disponible
+---------------------------------------------------------------
+O3  (promedio horaria):No disponible
+O3    (promedio móvil 8h):No disponible
+O3    (calidad del aire):No disponible
+O3    (nivel de riesgo asociado):No disponible
+---------------------------------------------------------------
+NO2  (promedio horaria):No disponible
+NO2   (calidad del aire):No disponible
+NO2   (nivel de riesgo asociado):No disponible

@@ -1,0 +1,34 @@
+***************************************************************
+Estado:Durango
+Estación:Durango
+Código de la estación:DGO
+ID de la estación:58
+Nombre de la estación:ITD
+Latitud:24.034472222222
+Longitud:-104.64502777778
+Calidad del Aire:Buena
+---------------------------------------------------------------
+PM10  (promedio móvil 12h):43(ug/m3)
+PM10  (calidad del aire):Buena
+PM10  (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+PM2.5  (promedio móvil 12h):No disponible
+PM2.5 (calidad del aire):No disponible
+PM2.5 (nivel de riesgo asociado):No disponible
+---------------------------------------------------------------
+CO  (promedio móvil 8h):No disponible
+CO    (calidad del aire):No disponible
+CO    (nivel de riesgo asociado):No disponible
+---------------------------------------------------------------
+SO  (promedio móvil 24h):No disponible
+SO2   (calidad del aire):No dsiponible
+SO2   (nivel de riesgo asociado):No disponible
+---------------------------------------------------------------
+O3  (promedio horaria):No disponible
+O3    (promedio móvil 8h):No disponible
+O3    (calidad del aire):No disponible
+O3    (nivel de riesgo asociado):No disponible
+---------------------------------------------------------------
+NO2   (promedio horaria):0.003(ppm)
+NO2   (calidad del aire):Buena
+NO2   (nivel de riesgo asociado):Bajo

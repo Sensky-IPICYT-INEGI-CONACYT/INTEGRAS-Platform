@@ -1,0 +1,34 @@
+***************************************************************
+Estado:San Luis Potosí
+Estación:San Luis Potosí Estatal
+Código de la estación:SLP
+ID de la estación:171
+Nombre de la estación:Industriales Potosinos Asociados
+Latitud:22.15125
+Longitud:-100.99611111111
+Calidad del Aire:Buena
+---------------------------------------------------------------
+PM10  (promedio móvil 12h):No disponible
+PM10  (calidad del aire):No disponible
+PM10  (nivel de riesgo asociado):No disponible
+---------------------------------------------------------------
+PM2.5  (promedio móvil 12h):No disponible
+PM2.5 (calidad del aire):No disponible
+PM2.5 (nivel de riesgo asociado):No disponible
+---------------------------------------------------------------
+CO    (promedio móvil 8h):0.89(ppm)
+CO    (calidad del aire):Buena
+CO    (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+SO2   (promedio móvil 24h):0.003(ppm)
+SO2   (calidad del aire):Buena
+SO2   (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+O3    (promedio horaria):0.024(ppm)
+O3    (promedio móvil 8h):0.02(ppm)
+O3    (calidad del aire):Buena
+O3    (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+NO2   (promedio horaria):0.046(ppm)
+NO2   (calidad del aire):Buena
+NO2   (nivel de riesgo asociado):Bajo

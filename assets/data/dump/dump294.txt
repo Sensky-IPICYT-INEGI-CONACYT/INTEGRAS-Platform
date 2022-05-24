@@ -1,0 +1,34 @@
+***************************************************************
+Estado:Zacatecas
+Estación:Zacatecas
+Código de la estación:ZAC
+ID de la estación:294
+Nombre de la estación:Explanada del Congreso
+Latitud:22.774797222222
+Longitud:-102.57445833333
+Calidad del Aire:Buena
+---------------------------------------------------------------
+PM10  (promedio móvil 12h):33(ug/m3)
+PM10  (calidad del aire):Buena
+PM10  (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+PM2.5 (promedio móvil 12h):9(ug/m3)
+PM2.5 (calidad del aire):Buena
+PM2.5 (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+CO    (promedio móvil 8h):1.13(ppm)
+CO    (calidad del aire):Buena
+CO    (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+SO  (promedio móvil 24h):No disponible
+SO2   (calidad del aire):Buena
+SO2   (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+O3    (promedio horaria):0.034(ppm)
+O3    (promedio móvil 8h):0.03(ppm)
+O3    (calidad del aire):Buena
+O3    (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+NO2   (promedio horaria):0.01(ppm)
+NO2   (calidad del aire):Buena
+NO2   (nivel de riesgo asociado):Bajo

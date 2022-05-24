@@ -1,0 +1,34 @@
+***************************************************************
+Estado:Ciudad de México
+Estación:Valle de México
+Código de la estación:CMX
+ID de la estación:302
+Nombre de la estación:Gustavo A. Madero
+Latitud:19.482777777778
+Longitud:-99.094722222222
+Calidad del Aire:Mala
+---------------------------------------------------------------
+PM10  (promedio móvil 12h):102(ug/m3)
+PM10  (calidad del aire):Mala
+PM10  (nivel de riesgo asociado):Alto
+---------------------------------------------------------------
+PM2.5 (promedio móvil 12h):61(ug/m3)
+PM2.5 (calidad del aire):Mala
+PM2.5 (nivel de riesgo asociado):Alto
+---------------------------------------------------------------
+CO  (promedio móvil 8h):No disponible
+CO    (calidad del aire):No disponible
+CO    (nivel de riesgo asociado):No disponible
+---------------------------------------------------------------
+SO  (promedio móvil 24h):No disponible
+SO2   (calidad del aire):No dsiponible
+SO2   (nivel de riesgo asociado):No disponible
+---------------------------------------------------------------
+O3    (promedio horaria):0.053(ppm)
+O3    (promedio móvil 8h):0.04(ppm)
+O3    (calidad del aire):Aceptable
+O3    (nivel de riesgo asociado):Moderado
+---------------------------------------------------------------
+NO2   (promedio horaria):0.057(ppm)
+NO2   (calidad del aire):Buena
+NO2   (nivel de riesgo asociado):Bajo

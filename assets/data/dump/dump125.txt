@@ -1,0 +1,34 @@
+***************************************************************
+Estado:México
+Estación:Toluca
+Código de la estación:TLC
+ID de la estación:125
+Nombre de la estación:Metepec
+Latitud:19.270194444444
+Longitud:-99.595194444444
+Calidad del Aire:Mala
+---------------------------------------------------------------
+PM10  (promedio móvil 12h):116(ug/m3)
+PM10  (calidad del aire):Mala
+PM10  (nivel de riesgo asociado):Alto
+---------------------------------------------------------------
+PM2.5 (promedio móvil 12h):55(ug/m3)
+PM2.5 (calidad del aire):Mala
+PM2.5 (nivel de riesgo asociado):Alto
+---------------------------------------------------------------
+CO    (promedio móvil 8h):1.21(ppm)
+CO    (calidad del aire):Buena
+CO    (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+SO  (promedio móvil 24h):No disponible
+SO2   (calidad del aire):No dsiponible
+SO2   (nivel de riesgo asociado):No disponible
+---------------------------------------------------------------
+O3    (promedio horaria):0.061(ppm)
+O3    (promedio móvil 8h):0.05(ppm)
+O3    (calidad del aire):Aceptable
+O3    (nivel de riesgo asociado):Moderado
+---------------------------------------------------------------
+NO2   (promedio horaria):0.011(ppm)
+NO2   (calidad del aire):Buena
+NO2   (nivel de riesgo asociado):Bajo

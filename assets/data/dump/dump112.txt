@@ -1,0 +1,34 @@
+***************************************************************
+Estado:Chihuahua - Ciudad Juárez
+Estación:Municipio de Juárez
+Código de la estación:CJU
+ID de la estación:112
+Nombre de la estación:ADVANCE
+Latitud:31.689722222222
+Longitud:-106.45972222222
+Calidad del Aire:No disponible
+---------------------------------------------------------------
+PM10  (promedio móvil 12h):No disponible
+PM10  (calidad del aire):No disponible
+PM10  (nivel de riesgo asociado):No disponible
+---------------------------------------------------------------
+PM2.5  (promedio móvil 12h):No disponible
+PM2.5 (calidad del aire):No disponible
+PM2.5 (nivel de riesgo asociado):No disponible
+---------------------------------------------------------------
+CO  (promedio móvil 8h):No disponible
+CO    (calidad del aire):No disponible
+CO    (nivel de riesgo asociado):No disponible
+---------------------------------------------------------------
+SO  (promedio móvil 24h):No disponible
+SO2   (calidad del aire):No dsiponible
+SO2   (nivel de riesgo asociado):No disponible
+---------------------------------------------------------------
+O3  (promedio horaria):No disponible
+O3    (promedio móvil 8h):No disponible
+O3    (calidad del aire):No disponible
+O3    (nivel de riesgo asociado):No disponible
+---------------------------------------------------------------
+NO2  (promedio horaria):No disponible
+NO2   (calidad del aire):No disponible
+NO2   (nivel de riesgo asociado):No disponible

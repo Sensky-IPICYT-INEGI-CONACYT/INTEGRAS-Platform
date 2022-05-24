@@ -1,0 +1,34 @@
+***************************************************************
+Estado:Nuevo León
+Estación:Monterrey
+Código de la estación:MTY
+ID de la estación:424
+Nombre de la estación:Cadereyta
+Latitud:25.600555555556
+Longitud:-99.994166666667
+Calidad del Aire:Buena
+---------------------------------------------------------------
+PM10  (promedio móvil 12h):26(ug/m3)
+PM10  (calidad del aire):Buena
+PM10  (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+PM2.5 (promedio móvil 12h):9(ug/m3)
+PM2.5 (calidad del aire):Buena
+PM2.5 (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+CO    (promedio móvil 8h):0.13(ppm)
+CO    (calidad del aire):Buena
+CO    (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+SO2   (promedio móvil 24h):0.002(ppm)
+SO2   (calidad del aire):Buena
+SO2   (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+O3    (promedio horaria):0.021(ppm)
+O3    (promedio móvil 8h):0.02(ppm)
+O3    (calidad del aire):Buena
+O3    (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+NO2   (promedio horaria):0.006(ppm)
+NO2   (calidad del aire):Buena
+NO2   (nivel de riesgo asociado):Bajo

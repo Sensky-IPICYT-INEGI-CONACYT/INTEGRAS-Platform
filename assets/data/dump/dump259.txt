@@ -1,0 +1,34 @@
+***************************************************************
+Estado:Ciudad de México
+Estación:Valle de México
+Código de la estación:CMX
+ID de la estación:259
+Nombre de la estación:Pedregal
+Latitud:19.325277777778
+Longitud:-99.204166666667
+Calidad del Aire:Aceptable
+---------------------------------------------------------------
+PM10  (promedio móvil 12h):70(ug/m3)
+PM10  (calidad del aire):Aceptable
+PM10  (nivel de riesgo asociado):Moderado
+---------------------------------------------------------------
+PM2.5 (promedio móvil 12h):39(ug/m3)
+PM2.5 (calidad del aire):Aceptable
+PM2.5 (nivel de riesgo asociado):Moderado
+---------------------------------------------------------------
+CO    (promedio móvil 8h):0.88(ppm)
+CO    (calidad del aire):Buena
+CO    (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+SO2   (promedio móvil 24h):0.008(ppm)
+SO2   (calidad del aire):Buena
+SO2   (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+O3    (promedio horaria):0.053(ppm)
+O3    (promedio móvil 8h):0.04(ppm)
+O3    (calidad del aire):Aceptable
+O3    (nivel de riesgo asociado):Moderado
+---------------------------------------------------------------
+NO2   (promedio horaria):0.042(ppm)
+NO2   (calidad del aire):Buena
+NO2   (nivel de riesgo asociado):Bajo

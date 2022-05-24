@@ -1,0 +1,34 @@
+***************************************************************
+Estado:Nuevo León
+Estación:Monterrey
+Código de la estación:MTY
+ID de la estación:425
+Nombre de la estación:Universidad
+Latitud:25.73
+Longitud:-100.30972222222
+Calidad del Aire:Mala
+---------------------------------------------------------------
+PM10  (promedio móvil 12h):78(ug/m3)
+PM10  (calidad del aire):Mala
+PM10  (nivel de riesgo asociado):Alto
+---------------------------------------------------------------
+PM2.5 (promedio móvil 12h):12(ug/m3)
+PM2.5 (calidad del aire):Buena
+PM2.5 (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+CO    (promedio móvil 8h):1.16(ppm)
+CO    (calidad del aire):Buena
+CO    (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+SO2   (promedio móvil 24h):0.007(ppm)
+SO2   (calidad del aire):Buena
+SO2   (nivel de riesgo asociado):Bajo
+---------------------------------------------------------------
+O3  (promedio horaria):No disponible
+O3    (promedio móvil 8h):No disponible
+O3    (calidad del aire):No disponible
+O3    (nivel de riesgo asociado):No disponible
+---------------------------------------------------------------
+NO2   (promedio horaria):0.084(ppm)
+NO2   (calidad del aire):Buena
+NO2   (nivel de riesgo asociado):Bajo
